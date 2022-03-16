@@ -1,0 +1,19 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 70%;
+    margin: 30px auto;
+}
+
+body {
+    font-family: Verdana;
+}
+
+p {
+    font-size: 20px;
+}
